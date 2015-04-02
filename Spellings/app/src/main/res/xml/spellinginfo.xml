@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spell-checker xmlns:android="http://schemas.android.com/apk/res/android"
+    android:label="@string/service_label"
+    >
+
+    <subtype
+        android:label="English"
+        android:subtypeLocale="en"
+        />
+
+</spell-checker>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spellings</string>
+    <string name="service_label">My Spell Checker</string>
+</resources>
